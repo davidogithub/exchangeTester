@@ -12,22 +12,6 @@
             >
                 <v-card-title class="text-white" v-text="title"></v-card-title>
             </v-img>
-            <!-- <v-form
-            v-model="form"
-            >
-                <v-text-field
-                    :readonly=true
-                    label="Song One"
-                ></v-text-field>
-                <v-text-field
-                    :readonly=true
-                    label="Song Two"
-                ></v-text-field>
-                <v-text-field
-                    :readonly=true
-                    label="Song Three"
-                ></v-text-field>
-            </v-form> -->
             <v-divider></v-divider>
             <v-text-field
                 v-for="foll in follData"

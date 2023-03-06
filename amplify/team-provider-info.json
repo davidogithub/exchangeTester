@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-oxmanni-dev-232653-authRole",
+      "UnauthRoleArn": "arn:aws:iam::885936425230:role/amplify-oxmanni-dev-232653-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::885936425230:role/amplify-oxmanni-dev-232653-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-oxmanni-dev-232653-deployment",
+      "UnauthRoleName": "amplify-oxmanni-dev-232653-unauthRole",
+      "StackName": "amplify-oxmanni-dev-232653",
+      "StackId": "arn:aws:cloudformation:us-east-1:885936425230:stack/amplify-oxmanni-dev-232653/204db640-bbd7-11ed-9635-0ea555775045",
+      "AmplifyAppId": "d1o4e8kajbihwz"
+    },
+    "categories": {
+      "auth": {
+        "oxmanni81d17090": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Look at the following links:
+
+https://dev.to/codebeast/an-in-depth-guide-on-amplify-graphql-api-authorization-14ng
+
+https://dev.to/aws-builders/building-a-login-function-with-aws-amplify-amplify-ui-vue-and-vue-3-4043
+
+https://www.youtube.com/watch?v=Sk9HMuAaTmQ
