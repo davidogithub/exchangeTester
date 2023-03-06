@@ -1,0 +1,55 @@
+{"total": {
+    "followers": [
+        {"name": "Mayowa Taiwo",
+            "exchange": {
+                "songs": [
+                    {"name": "Wo Wo", "artist": "Minz", "star": false},
+                    {"name": "Kill Bill", "artist": "SZA", "star": false},
+                    {"name": "Players", "artist": "Coi Leray", "star": false}
+                ]
+            },
+            "songofDay": {"name": "Bandana", "artist": "Fireboy DML" }
+        },
+        {"name": "Uche Aduaka",
+            "exchange": {
+                "songs": [
+                    {"name": "UYATHANDEKA", "artist": "DBN Gogo", "star": false},
+                    {"name": "Injabulo", "artist": "Juls", "star": false},
+                    {"name": "soso", "artist": "Omah Lay", "star": false}
+                ]
+            },
+            "songofDay": {"name": "Patek", "artist": "Mr Eazi"}
+        },
+        {"name": "Angel Nkwain",
+            "exchange": {
+                "songs": [
+                    {"name": "Show Me", "artist": "Joey Bada$$", "star": false},
+                    {"name": "An Idea", "artist": "IAMNOBODI", "star": false},
+                    {"name": "GWAGWALADA", "artist": "BNXN fka Buju", "star": false}
+                ]
+            },
+            "songofDay": {"name": "WYD", "artist": "Planet Giza" }
+        },
+        {"name": "Getahun Seyohun",
+            "exchange": {
+                "songs": [
+                    {"name": "Deserve Me", "artist": "Kali Uchis", "star": false},
+                    {"name": "This is", "artist": "Ella Mai", "star": false},
+                    {"name": "PLASTIC OFF THE SOFA", "artist": "Beyonce", "star": false}
+                ]
+            },
+            "songofDay": {"name": "Die For You", "artist": "The Weeknd" }
+        },
+        {"name": "David Alade",
+            "exchange": {
+                "songs": [
+                    {"name": "Tales By Moonlight", "artist": "Show Dem Camp", "star": false},
+                    {"name": "I Won't Tell", "artist": "Baby Rose", "star": false},
+                    {"name": "eWallet", "artist": "KDDO", "star": false}
+                ]
+            },
+            "songofDay": {"name": "Patek", "artist": "Mr Eazi"}
+        }
+    ]
+}
+}
