@@ -13,6 +13,13 @@ import { createApp } from 'vue'
 // Plugins
 import { registerPlugins } from '@/plugins'
 
+// Amplify Resources
+import { Amplify } from 'aws-amplify';
+
+import awsconfig from './aws-exports';
+
+Amplify.configure(awsconfig);
+
 const app = createApp(App)
 
 registerPlugins(app)

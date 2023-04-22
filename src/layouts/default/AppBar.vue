@@ -7,9 +7,9 @@
     </template>
     <v-app-bar-title>
       <v-icon icon="mdi-circle-slice-4" />
-
       Oxmanni
     </v-app-bar-title>
+    <router-link to="/login">Login</router-link>
   </v-app-bar>
 </template>
 

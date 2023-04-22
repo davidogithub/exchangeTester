@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-oxexchange-staging-235058-authRole",
+      "UnauthRoleArn": "arn:aws:iam::747246243024:role/amplify-oxexchange-staging-235058-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::747246243024:role/amplify-oxexchange-staging-235058-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-oxexchange-staging-235058-deployment",
+      "UnauthRoleName": "amplify-oxexchange-staging-235058-unauthRole",
+      "StackName": "amplify-oxexchange-staging-235058",
+      "StackId": "arn:aws:cloudformation:us-east-1:747246243024:stack/amplify-oxexchange-staging-235058/631ee7c0-cdc3-11ed-9c65-0e9f214187c9",
+      "AmplifyAppId": "d2pdoacz4ossui"
+    },
+    "categories": {
+      "auth": {
+        "oxexchange": {}
+      }
+    }
+  }
+}
