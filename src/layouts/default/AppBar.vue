@@ -10,6 +10,7 @@
       Oxmanni
     </v-app-bar-title>
     <router-link to="/login">Login</router-link>
+    <router-link to="/signup">Sign Up</router-link>
   </v-app-bar>
 </template>
 

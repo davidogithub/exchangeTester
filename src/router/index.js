@@ -13,6 +13,28 @@ const routes = [
       },
     ],
   },
+  {
+    path: "/login",
+    component: () => import ('@/layouts/default/Default.vue'),
+    children: [
+      {
+        path: '/login',
+        name: 'Login',
+        component: () => import('@/views/Login.vue'),
+      }
+    ]
+  },
+  {
+    path: "/signup",
+    component: () => import ('@/layouts/default/Default.vue'),
+    children: [
+      {
+        path: '/signup',
+        name: 'SignUp',
+        component: () => import('@/views/SignUp.vue'),
+      }
+    ]
+  },
   // {
   //   path: "/login",
   //   component: () => import('@/layouts/default/Default.vue'),
